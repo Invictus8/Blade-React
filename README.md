@@ -1,2 +1,2 @@
-# Blade-React
+# BladeReact
 React experiment
